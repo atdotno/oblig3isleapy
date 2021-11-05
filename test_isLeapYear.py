@@ -17,12 +17,4 @@ def testleapyear():
 
 
 
-    #skal feile
-
-    assert isLeapYear(1922) == True
-                    
-    assert isLeapYear(2004) == False
-                  
-    assert isLeapYear(2009) == True
-                    
-    assert isLeapYear(2000) == False
+ 
