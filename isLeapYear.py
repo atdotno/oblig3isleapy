@@ -14,3 +14,5 @@ print(isLeapYear(2004))
 print(isLeapYear(2009))
 
 print(isLeapYear(2000))
+
+print("yes")
